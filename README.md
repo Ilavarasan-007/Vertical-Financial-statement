@@ -1,6 +1,6 @@
-# Automated Financial Statements Template for Non-Corporate Entities (NCE)
+# Sample Financial Statements Template for Non-Corporate Entities (NCE)
 
-An automated, formula-driven financial reporting workbook designed in accordance with the **ICAI Technical Guidance Note on Financial Statements for Non-Corporate Entities**[span_0](start_span)[span_0](end_span).
+A formula-driven financial reporting workbook designed in accordance with the **ICAI Technical Guidance Note on Financial Statements for Non-Corporate Entities**[span_0](start_span)[span_0](end_span).
 
 Compatible with **Microsoft Excel** and **Google Sheets**[span_1](start_span)[span_1](end_span).
 
